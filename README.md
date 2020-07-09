@@ -4,7 +4,7 @@
 - 🛠️ I like making things
 - 👁️ Currently into Deep Learning
 - 💻 Javascript/Python/C/C++/Haskel/Shell/IOT
-- 🤔 I’m looking for help with Linux drivers
+- 🤔 I’m looking for help with installing packages in Haskel.
 - 💬 Ask me about what M working on these days.
 - 📫 Reach me at <a href="https://twitter.com/arjun_pahadii">@arjun_pahadii</a>
 
