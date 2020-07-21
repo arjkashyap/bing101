@@ -9,8 +9,8 @@ I am just an average programmer.. 😄
 
 - 🛠️ I like making things
 - 👁️ Currently into Deep Learning
-- 💻 Javascript/Python/C/C++/Haskel/Shell/IOT
-- 🤔 I’m looking for help with managing packages in Haskel.
+- 💻 Javascript/Python/C/C++/Haskell/Shell/IOT
+- 🤔 I’m looking for help with managing packages in Haskell.
 - 💬 Ask me about what M working on these days.
 - 📚 I Like reading books so feel free to PM me if you want to discuss Fiction/Sci-Fi/Classics/Non-Fiction <a href="https://www.goodreads.com/user/show/23127994-arjun">GoodReads</a>
 
