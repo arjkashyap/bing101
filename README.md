@@ -15,6 +15,5 @@ I am just an average programmer.. 😄
 - 💬 Ask me about what M working on these days.
 - 📚 I Like reading books so feel free to PM me if you want to discuss Fiction/Sci-Fi/Classics/Non-Fiction <a href="https://www.goodreads.com/user/show/23127994-arjun">GoodReads</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bing101&label=Profile%20views&color=0e75b6&style=flat" alt="bing101" /> </p>
 
 > Imagination will often carry us to worlds that never were. But without it we go nowhere. <br> - Carl Sagan
