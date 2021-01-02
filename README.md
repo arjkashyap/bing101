@@ -10,6 +10,7 @@ I am just an average programmer.. 😄
 
 <p align="left">
   Check out my YouTube channel
+  <br/>
   <a href="https://www.youtube.com/channel/UC6I7BAVUrtQ5vVPue_Jhb-w"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </p>
