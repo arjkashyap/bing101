@@ -2,8 +2,6 @@
 
 ## Just your friendly neighbourhood programmer.. 😄
 
-<hr/>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjun-kashyap-099384116/)](https://www.linkedin.com/in/arjun-kashyap-099384116/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bing101)](https://github.com/bing101/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-C13584?style=flat-square&labelColor=e3f5f4&logo=twitter&logoColor=blue&link=https://twitter.com/arjun_pahadii)](https://twitter.com/arjun_pahadii)
