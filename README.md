@@ -7,9 +7,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-C13584?style=flat-square&labelColor=e3f5f4&logo=twitter&logoColor=blue&link=https://twitter.com/arjun_pahadii)](https://twitter.com/arjun_pahadii)
 [![Email Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&logoColor=white&link=arj.kashyap123@gmail.com)](mailto:arj.kashyap123@gmail.com)
 
-
-Sometimes, I make content at: 
-
 <p align="left">
   <a href="https://www.youtube.com/channel/UC6I7BAVUrtQ5vVPue_Jhb-w"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
 
@@ -18,7 +15,7 @@ Sometimes, I make content at:
 ### Currently Building ML4EveryOne
 
 - 🛠️ I like making things
-- 👁️ Currently into Deep Learning
+- 👁️ ML/Deep Learning
 - 💻 Javascript || Python || C/C++ || Haskell || Shell ||
 - 🤔 I’m looking for help with managing packages in Haskell.
 - 💬 Ask me about what M working on these days.
